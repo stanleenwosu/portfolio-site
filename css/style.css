@@ -1292,4 +1292,7 @@ input[type="text"] {
   opacity: 0;
 }
 
+.work{
+  background-size: contain;
+}
 /*# sourceMappingURL=style.css.map */
