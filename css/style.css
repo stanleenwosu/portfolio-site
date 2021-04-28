@@ -1295,4 +1295,17 @@ input[type="text"] {
 .work{
   background-size: contain;
 }
+
+.p-2{
+  padding: 12px !important;
+}
+.no-float {
+  float: none !important;
+}
+
+.img-100 {
+  width: 100px;
+}
 /*# sourceMappingURL=style.css.map */
+
+
