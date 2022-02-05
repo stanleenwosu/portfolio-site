@@ -1309,3 +1309,6 @@ input[type="text"] {
 /*# sourceMappingURL=style.css.map */
 
 
+.text-small{
+  font-size:.5rem !important;
+}
